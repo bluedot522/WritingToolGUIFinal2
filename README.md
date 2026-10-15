@@ -1,0 +1,1 @@
+This is a writing project manager, featuring the ability to add and organize projects and characters. By default, the program will run from a blank slate with the message that no previous entries were found. This will allow you to fill the program with your own projects and characters, which will be autosaved to a JSON file.
